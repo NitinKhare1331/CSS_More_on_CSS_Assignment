@@ -1,0 +1,18 @@
+img{
+    width: 280px;
+    height: 200px;
+    border-radius: 20px;
+}
+.card{
+    background-color: rgba(86, 255, 199, 0.7);
+    max-width: 280px;
+    padding: 5px 20px 5px 20px ;
+    
+    border-radius: 20px;
+}
+.container{
+    text-align: left;
+}
+.card:hover{
+    filter:opacity(40%);
+}
